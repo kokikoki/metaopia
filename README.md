@@ -1,6 +1,6 @@
 # Metaopia
 
-TODO: Write a gem description
+Extension of common functions.
 
 ## Installation
 
