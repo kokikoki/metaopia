@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["kato@condesire.com"]
   spec.summary       = %q{Extension of common functions.}
   spec.description   = %q{Extension of common functions.}
-  spec.homepage      = "http://blog.condesire.com/"
+  spec.homepage      = "https://github.com/kokikoki/metaopia"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
