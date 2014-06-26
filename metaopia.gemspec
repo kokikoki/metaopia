@@ -6,11 +6,11 @@ require 'metaopia/version'
 Gem::Specification.new do |spec|
   spec.name          = "metaopia"
   spec.version       = Metaopia::VERSION
-  spec.authors       = ["kato.koki"]
+  spec.authors       = ["gyunyubin"]
   spec.email         = ["kato@condesire.com"]
   spec.summary       = %q{Extension of common functions.}
   spec.description   = %q{Extension of common functions.}
-  spec.homepage      = ""
+  spec.homepage      = "http://condesire.com/blog/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
